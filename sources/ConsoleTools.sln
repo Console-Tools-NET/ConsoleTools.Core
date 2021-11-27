@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTools.Core", "ConsoleTools.Core\ConsoleTools.Core.csproj", "{975D695D-1FD2-446F-BD7C-0F7839C1559D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0119E5F4-08FC-4F5F-B5BB-B2CA46FDF37F}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug-Net452|Any CPU = Debug-Net452|Any CPU
+		Debug-Net461|Any CPU = Debug-Net461|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-Net452|Any CPU = Release-Net452|Any CPU
+		Release-Net461|Any CPU = Release-Net461|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Debug-Net452|Any CPU.ActiveCfg = Debug|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Debug-Net452|Any CPU.Build.0 = Debug|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Debug-Net461|Any CPU.ActiveCfg = Debug|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Debug-Net461|Any CPU.Build.0 = Debug|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Release-Net452|Any CPU.ActiveCfg = Release|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Release-Net452|Any CPU.Build.0 = Release|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Release-Net461|Any CPU.ActiveCfg = Release|Any CPU
+		{975D695D-1FD2-446F-BD7C-0F7839C1559D}.Release-Net461|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369B843F-38E3-4477-A766-F70718E83926}
+	EndGlobalSection
+EndGlobal
